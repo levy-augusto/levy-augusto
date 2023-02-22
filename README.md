@@ -16,9 +16,9 @@
 
 ### Games Dev Repositories
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=levy-augusto&repo=samurai-arcade-game&theme=dark"/>
-  <br>
-
+  <p align="center">
+    <a href="https://samurai-arcade.netlify.app">Samurai Arcade Game</a>
+  </p>
 
 <br> 
 
