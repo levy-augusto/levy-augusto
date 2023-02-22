@@ -14,10 +14,16 @@
 
 <br> 
 
-### Games Dev Repositories
+### View Demo Repositories
 
   <p align="center">
     <a href="https://samurai-arcade.netlify.app">Samurai Arcade Game</a>
+  </p>
+  <p align="center">
+    <a href="https://simple-quiz-app-math.netlify.app">Quiz App</a>
+  </p>
+    <p align="center">
+    <a href="https://countdown-timer-for-new-year.netlify.app">New Year CountDown Timer</a>
   </p>
 
 <br> 
