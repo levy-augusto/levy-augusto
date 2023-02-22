@@ -5,8 +5,7 @@
  <div align="center">
   <div>
   <a href="https://github.com/levy-augusto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levy-augusto&show_icons=true&theme=dark
-"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levy-augusto&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-augusto&layout=compact&theme=dark"/>
   <br>
 
